@@ -9,7 +9,7 @@
 </head>
 <body>
 <?php 
-	include 'menu.php';
+	include 'menu.html';
 	include 'header.html';
 ?>
 
